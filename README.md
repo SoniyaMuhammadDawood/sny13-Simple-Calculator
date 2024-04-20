@@ -1,7 +1,7 @@
 # sny13-Simple-Calculator
 This is a simple Calculator
 <h1 align="center">Hi 👋, I'm SoniyaMuhammadDawood</h1>
-<h3 align="center">A passionate full-stack developer from Pakistan</h3>
+<h3 align="center">A beginner developer from Pakistan</h3>
 
 <p align="left"> <img align="right"
   alt="coding" width="300"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxvdQVvL70fT0vEh9vAce8i23afZOeFjA-x7yQ9y9ytQ&s" alt="soniyamuhammaddawood" /> </p>
